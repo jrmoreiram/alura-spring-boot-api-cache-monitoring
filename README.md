@@ -1,4 +1,4 @@
-# Curso SPRING BOOT API REST: SEGURANÇA DA API, CACHE E MONITORAMENTO
+# Curso Spring Boot API Rest: Segurança da API, Cache e Monitoramento
 
 ### Temas abordados durante o curso:
 
